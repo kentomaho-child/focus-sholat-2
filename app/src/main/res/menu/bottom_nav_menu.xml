@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_home"
+        android:title="Beranda" />
+    <item
+        android:id="@+id/blockedAppsFragment"
+        android:icon="@drawable/ic_block"
+        android:title="Aplikasi" />
+    <item
+        android:id="@+id/scheduleFragment"
+        android:icon="@drawable/ic_schedule"
+        android:title="Jadwal" />
+    <item
+        android:id="@+id/statsFragment"
+        android:icon="@drawable/ic_stats"
+        android:title="Statistik" />
+    <item
+        android:id="@+id/settingsFragment"
+        android:icon="@drawable/ic_settings"
+        android:title="Pengaturan" />
+</menu>

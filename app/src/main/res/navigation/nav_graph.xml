@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.focussholat.ui.home.HomeFragment"
+        android:label="Beranda" />
+
+    <fragment
+        android:id="@+id/blockedAppsFragment"
+        android:name="com.focussholat.ui.blockedapps.BlockedAppsFragment"
+        android:label="Aplikasi Diblokir" />
+
+    <fragment
+        android:id="@+id/scheduleFragment"
+        android:name="com.focussholat.ui.schedule.ScheduleFragment"
+        android:label="Jadwal" />
+
+    <fragment
+        android:id="@+id/statsFragment"
+        android:name="com.focussholat.ui.stats.StatsFragment"
+        android:label="Statistik" />
+
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.focussholat.ui.settings.SettingsFragment"
+        android:label="Pengaturan" />
+
+</navigation>

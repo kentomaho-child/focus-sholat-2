@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FocusSholat</string>
+    <string name="nav_home">Beranda</string>
+    <string name="nav_blocked_apps">Aplikasi</string>
+    <string name="nav_schedule">Jadwal</string>
+    <string name="nav_stats">Statistik</string>
+    <string name="nav_settings">Pengaturan</string>
+
+    <string name="blocking_active">Pemblokiran Aktif</string>
+    <string name="blocking_inactive">Pemblokiran Nonaktif</string>
+
+    <string name="prayer_fajr">Subuh</string>
+    <string name="prayer_dhuhr">Dzuhur</string>
+    <string name="prayer_asr">Ashar</string>
+    <string name="prayer_maghrib">Maghrib</string>
+    <string name="prayer_isha">Isya</string>
+
+    <string name="btn_enable_accessibility">Aktifkan Aksesibilitas</string>
+    <string name="btn_enable_usage">Izinkan Penggunaan</string>
+    <string name="btn_back_home">Kembali ke Beranda</string>
+    <string name="btn_emergency_override">Override Darurat</string>
+
+    <string name="error_no_prayer_time">Jadwal sholat belum tersedia. Pastikan internet aktif.</string>
+    <string name="error_network">Tidak dapat terhubung ke internet</string>
+
+    <string name="permission_accessibility_title">Aksesibilitas Diperlukan</string>
+    <string name="permission_accessibility_message">FocusSholat memerlukan izin aksesibilitas untuk mendeteksi dan memblokir aplikasi. Aktifkan di Pengaturan → Aksesibilitas → FocusSholat.</string>
+    <string name="permission_usage_title">Izin Penggunaan Diperlukan</string>
+    <string name="permission_usage_message">FocusSholat memerlukan izin untuk melihat statistik penggunaan aplikasi.</string>
+</resources>
